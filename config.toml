@@ -19,6 +19,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     #name = "Twitter"
      name = "My R Shiny dashboard"
     url = "https://valovich.shinyapps.io/Simple_COVID_Tracker/"
+    
+ [[menu.main]]   #my add
+    name = "Power BI dashboard"
+    url = "" 
 
 [params]
     description = "A website built through Hugo and blogdown."
