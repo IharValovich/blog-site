@@ -17,11 +17,11 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     url = "https://github.com/IharValovich"
 [[menu.main]]
     #name = "Twitter"
-     name = "R Shiny dashboard"
+     name = "R Shiny"
     url = "https://valovich.shinyapps.io/Simple_COVID_Tracker/"
     
  [[menu.main]]   #my add
-    name = "Power BI dashboard"
+    name = "Power BI"
     url = "" 
 
 [params]
