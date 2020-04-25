@@ -21,7 +21,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     url = "https://valovich.shinyapps.io/Simple_COVID_Tracker/"
     
  [[menu.main]]   #my add
-    name = "Power BI"
+    name = ""
     url = "" 
 
 [params]
