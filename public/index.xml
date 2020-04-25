@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>About R Markdown</title>
+      <link>/2020/04/25/about-r-markdown/</link>
+      <pubDate>Sat, 25 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/04/25/about-r-markdown/</guid>
+      <description>R Markdown: what, why and how?R Markdown allows to generate a report (most of the time in PDF, HTML, Word or as a beamer presentation) that is automatically generated from a file written within RStudio. The generated documents can serve as a neat record of your analysis that can be shared and published in a detailed and complete report. Even if you never expect to present the results to someone else, it can also be used as a personal notebook to look back so you can see what you did at that time.</description>
+    </item>
+    
+    <item>
       <title>Markdown</title>
       <link>/2020/04/25/markdown/</link>
       <pubDate>Sat, 25 Apr 2020 00:00:00 +0000</pubDate>

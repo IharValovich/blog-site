@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on iharvalovich</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on iharvalovich</description>
+    <title>R on iharvalovich</title>
+    <link>/tags/r/</link>
+    <description>Recent content in R on iharvalovich</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 25 Apr 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/r/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>/2020/04/25/about-r-markdown/</guid>
       <description>R Markdown: what, why and how?R Markdown allows to generate a report (most of the time in PDF, HTML, Word or as a beamer presentation) that is automatically generated from a file written within RStudio. The generated documents can serve as a neat record of your analysis that can be shared and published in a detailed and complete report. Even if you never expect to present the results to someone else, it can also be used as a personal notebook to look back so you can see what you did at that time.</description>
-    </item>
-    
-    <item>
-      <title>Markdown</title>
-      <link>/2020/04/25/markdown/</link>
-      <pubDate>Sat, 25 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/2020/04/25/markdown/</guid>
-      <description>About markdown</description>
     </item>
     
   </channel>
