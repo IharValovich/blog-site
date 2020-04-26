@@ -12,18 +12,12 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [[menu.main]]
     name = "My CV"
     url = "https://iharvalovich.github.io/My-CV-Rmarkdown"
+    
 [[menu.main]]
     name = "Projects"
     url = "https://github.com/IharValovich"
-[[menu.main]]
-    #name = "Twitter"
-    # name = "R Shiny"
-   # url = "https://valovich.shinyapps.io/Simple_COVID_Tracker/"
-    
- [[menu.main]]   #my add
-   # name = ""
-   # url = "" 
- [[menu.main]]  #my add
+
+ [[menu.main]] 
     name = "About me"
     url = "https://github.com/IharValovich"   
 
