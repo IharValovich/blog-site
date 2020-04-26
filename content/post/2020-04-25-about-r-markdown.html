@@ -11,17 +11,21 @@ categories: R Markdown
 
 <div id="r-markdown-what-why-and-how" class="section level2">
 <h2>R Markdown: what, why and how?</h2>
-<p>R Markdown allows to generate a report (most of the time in PDF, HTML, Word or as a beamer presentation) that is automatically generated from a file written within RStudio. The generated documents can serve as a neat record of your analysis that can be shared and published in a detailed and complete report. Even if you never expect to present the results to someone else, it can also be used as a personal notebook to look back so you can see what you did at that time. A R Markdown file has the extension .Rmd, while a R script file has the extension .R.
-The first main advantage of using R Markdown over R is that, in a R Markdown document, you can combine three important parts of any statistical analysis:
-R code to show how the analyses have been done. For instance, the data and the functions you used. This allows readers to follow your code and to check that the analyses were correctly performed.
-Results of the code, that is, the output of your analyses. For example, the output of your linear model, plots, or results of the hypothesis test you just coded. This allows readers to see the results of your analyses.
-Text, comments and interpretations of the results. For instance, after computing the main descriptive statistics and plotting some graphs, you can interpret them in the context of your problem and highlight important findings. This enables readers to understand your results thanks to your interpretations and your comments, delivered as if you wrote a document explaining your work.
-Another advantage of R Markdown is that the reports are dynamic and reproducible by anyone who has access to the .Rmd file (and the data if external data are used of course), making it perfectly suited to collaboration and dissemination of results. By dynamic, we mean that if your data changes, your results and your interpretations will change accordingly, without any work from your side.
-The production of the reports is done in two stages:
-The .Rmd file which contains blocks of R code (called chunks) and text is provided to the {knitr} package which will execute the R code to get the output, and create a document in markdown (.md) format. This document then contains the R code, the results (or outputs), and the text.
-This .md file is then converted to the desired format (HTML, PDF or Word), by the markdown package based on pandoc (i.e., a document conversion tool).</p>
+<p>R Markdown allows to generate a report (most of the time in PDF, HTML, Word or as a beamer presentation) that is automatically generated from a file written within RStudio. The generated documents can serve as a neat record of your analysis that can be shared and published in a detailed and complete report. Even if you never expect to present the results to someone else, it can also be used as a personal notebook to look back so you can see what you did at that time. R Markdown file has the extension <code>.Rmd</code>, while a R script file has the extension <code>.R</code>.
+The first main advantage of using R Markdown over R is that, in a R Markdown document, you can combine three important parts of any statistical analysis:</p>
+<ul>
+<li><p>R code to show how the analyses have been done. For instance, the data and the functions you used. This allows readers to follow your code and to check that the analyses were correctly performed.</p></li>
+<li><p>Results of the code, that is, the output of your analyses. For example, the output of your linear model, plots, or results of the hypothesis test you just coded. This allows readers to see the results of your analyses.</p></li>
+<li><p>Text, comments and interpretations of the results. For instance, after computing the main descriptive statistics and plotting some graphs, you can interpret them in the context of your problem and highlight important findings. This enables readers to understand your results thanks to your interpretations and your comments, delivered as if you wrote a document explaining your work.</p></li>
+</ul>
+<p>Another advantage of R Markdown is that the reports are dynamic and reproducible by anyone who has access to the <code>.Rmd</code> file (and the data if external data are used of course), making it perfectly suited to collaboration and dissemination of results. By dynamic, we mean that if your data changes, your results and your interpretations will change accordingly, without any work from your side.
+The production of the reports is done in two stages:</p>
+<ul>
+<li><p>The <code>.Rmd</code> file which contains blocks of R code (called chunks) and text is provided to the <code>{knitr}</code> package which will execute the R code to get the output, and create a document in markdown (<code>.md</code>) format. This document then contains the R code, the results (or outputs), and the text.</p></li>
+<li><p>This <code>.md</code> file is then converted to the desired format (HTML, PDF or Word), by the markdown package based on pandoc (i.e., a document conversion tool).</p></li>
+</ul>
 </div>
 <div id="for-more-information" class="section level2">
 <h2>For more information</h2>
-<p>For more details on using R Markdown see <a href="https://towardsdatascience.com/getting-started-in-r-markdown-2d3de636bde3" class="uri">https://towardsdatascience.com/getting-started-in-r-markdown-2d3de636bde3</a>.</p>
+<p>For more details on using R Markdown see <a href="https://towardsdatascience.com/getting-started-in-r-markdown-2d3de636bde3">towards data science</a>.</p>
 </div>
