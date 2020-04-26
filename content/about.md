@@ -3,4 +3,7 @@ date: "2016-05-05T21:48:51-07:00"
 title: About
 ---
 
-This is a "hello world" example website for the [**blogdown**](https://github.com/rstudio/blogdown) package. The theme was forked from [@jrutheiser/hugo-lithium-theme](https://github.com/jrutheiser/hugo-lithium-theme) and modified by [Yihui Xie](https://github.com/yihui/hugo-lithium).
+## Ihar Valovich
+### Data Analyst
+
+I have 5+ years of experience interpreting and analyzing data in order to drive successful business solutions. Understanding of business operations and analytics tools for effective analyses of data. I like to explore the relationships between numbers, and translate digits and spreadsheets into stories.
