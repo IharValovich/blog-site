@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R Shiny on iharvalovich</title>
+    <link>/categories/r-shiny/</link>
+    <description>Recent content in R Shiny on iharvalovich</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/r-shiny/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What is R Shiny?</title>
+      <link>/2020/04/26/what-is-r-shiny/</link>
+      <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/04/26/what-is-r-shiny/</guid>
+      <description>Shiny is an R package that enables you to build interactive web apps using both the statistical power of R and the interactivity of the modern web. An excellent and efficient alternative to spreadsheets and printed visualizations, R Shiny saves space and time in the construction, automation, and distribution of data visualizations and statistical analyses.</description>
+    </item>
+    
+  </channel>
+</rss>

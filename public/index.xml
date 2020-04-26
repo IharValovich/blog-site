@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>What is R Shiny?</title>
+      <link>/2020/04/26/what-is-r-shiny/</link>
+      <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/04/26/what-is-r-shiny/</guid>
+      <description>Shiny is an R package that enables you to build interactive web apps using both the statistical power of R and the interactivity of the modern web. An excellent and efficient alternative to spreadsheets and printed visualizations, R Shiny saves space and time in the construction, automation, and distribution of data visualizations and statistical analyses.</description>
+    </item>
+    
+    <item>
       <title>About R Markdown</title>
       <link>/2020/04/25/about-r-markdown/</link>
       <pubDate>Sat, 25 Apr 2020 00:00:00 +0000</pubDate>
