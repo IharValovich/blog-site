@@ -17,7 +17,8 @@
       <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/04/26/what-is-r-shiny/</guid>
-      <description>Shiny is an R package that enables you to build interactive web apps using both the statistical power of R and the interactivity of the modern web. An excellent and efficient alternative to spreadsheets and printed visualizations, R Shiny saves space and time in the construction, automation, and distribution of data visualizations and statistical analyses.</description>
+      <description>Shiny is an R package that makes it easy to build interactive web apps straight from R. You can host standalone apps on a webpage or embed them in R Markdown documents or build dashboards. You can also extend your Shiny apps with CSS themes, htmlwidgets, and JavaScript actions.
+Why Shiny?  Easy to learn, easy to use. The development time is minimized. Excellent tool for data visualization. Have very strong backing: the R language Fun &amp;amp; Cool.</description>
     </item>
     
   </channel>
