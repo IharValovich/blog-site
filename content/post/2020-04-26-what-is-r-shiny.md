@@ -28,4 +28,4 @@ The “Server” keeps monitoring the UI. Whenever there is a change in the UI, 
 
 ### For more information 
 
-Pleas visit [Shiny from R Studio](https://shiny.rstudio.com/)
+Please visit [Shiny from R Studio](https://shiny.rstudio.com/)
