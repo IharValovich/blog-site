@@ -17,6 +17,6 @@ I used next tools:
 
 * [GitHub](https://github.com/) and [netlify](https://www.netlify.com/) to deploy site
 
-* [Atom](https://atom.io/) for configiration and add content to site 
+* [Atom](https://atom.io/) for configuration and add content to site 
 
 > ### **without programming - I only configured this tools.**
