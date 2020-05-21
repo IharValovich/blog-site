@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2020-04-26T00:00:00+00:00</lastmod>
+    <loc>/2020/05/21/create-a-beautifully-simple-static-website-using-the-hugo-static-site-generator-and-the-academic-framework/</loc>
+    <lastmod>2020-05-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/post/</loc>
+    <lastmod>2020-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
     <lastmod>2020-04-26T00:00:00+00:00</lastmod>
   </url>
   

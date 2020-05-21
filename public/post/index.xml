@@ -6,10 +6,19 @@
     <description>Recent content in Posts on iharvalovich</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Create a beautifully simple static website using the Hugo static site generator and the Academic framework   🚀</title>
+      <link>/2020/05/21/create-a-beautifully-simple-static-website-using-the-hugo-static-site-generator-and-the-academic-framework/</link>
+      <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/05/21/create-a-beautifully-simple-static-website-using-the-hugo-static-site-generator-and-the-academic-framework/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>What is R Shiny?</title>
