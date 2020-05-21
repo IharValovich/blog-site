@@ -7,9 +7,9 @@ slug: create-a-beautifully-simple-static-website-using-the-hugo-static-site-gene
 categories: []
 tags: []
 ---
-Please, see my new project on the next link [PROAXIS](https://proaxis.netlify.app/).
+> ### Please, see my new project on the next link: [PROAXIS](https://proaxis.netlify.app/).
 
-I used next instruments:
+I used next tools:
 
 * [Hugo static site generator](https://gohugo.io/)
 
@@ -18,3 +18,5 @@ I used next instruments:
 * [GitHub](https://github.com/) and [netlify](https://www.netlify.com/) to deploy site
 
 * [Atom](https://atom.io/) for configiration and add content to site
+
+> ### **without programming - I only configured this tools**
